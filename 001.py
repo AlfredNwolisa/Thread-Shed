@@ -1,8 +1,3 @@
-
-
-from itertools import count
-
-
 daily_sales = \
 """Edith Mcbride   ;,;$1.21   ;,;   white ;,; 
 09/15/17   ,Herbert Tran   ;,;   $7.29;,; 
