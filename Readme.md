@@ -1,6 +1,6 @@
 # Thread Shed
 
-Thread Shed is a small sewing hobby shop, and as a cashier, your daily responsibilities include tallying sales, calculating total revenue, and keeping track of customer names. Unfortunately, Thread Shed uses an outdated register system, storing all transaction data in one large, unwieldy string called `daily_sales`. Your task is to parse this string, clean it up, and organize the data into more accessible lists.
+Thread Shed is a small sewing hobby shop, and as a cashier, your daily responsibilities include tallying sales, calculating total revenue, and keeping track of customer names. Unfortunately, Thread Shed uses an outdated register system, storing all transaction data in one large, unwieldy string called `daily_sales`. The task is to parse this string, clean it up, and organize the data into more accessible lists.
 
 ## Tasks
 
